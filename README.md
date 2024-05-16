@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Dutta</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-- 💬 Ask me about **react.js and spring boot**
+- 💬 Ask me about **react.js, node.js and spring boot**
 
 - 📫 How to reach me **vishudutta0303@gmail.com**
 
